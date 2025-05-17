@@ -1,2 +1,2 @@
 # 48lpdr
-a simple prohect
+a simple project
