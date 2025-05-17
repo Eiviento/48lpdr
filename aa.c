@@ -2,5 +2,5 @@
 
 int main()
 {
-  std::cout <<"go"std::endl;
+  std::cout <<"go"<<std::endl;
 }
